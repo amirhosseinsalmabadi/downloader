@@ -32,6 +32,6 @@
 فایل اصلی دارای پسوند zip و پارت های دیگر دارای فرمت شماره گذاری شده به شکل z01 z02  و ... هستند. در ویندوز یا مک با نصب برنامه هایی مثل 7zip یا دیگر ابزارهای فشرده سازی میتوانید این فایلهای تکه تکه شده را یکجا اکسترکت بکنید.
 
 ---
-خوش باشید 💚
+خوش باشید
 
-<a href="https://avasam.ir" target="_blank" rel="do-follow follow sponsered">AVASAM</a>
+<a href="https://avasam.ir" target="_blank" rel="do-follow follow sponsered">آواسام  💚 </a>
